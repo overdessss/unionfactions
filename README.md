@@ -1,9 +1,9 @@
 # Contacts
-> FL-OF >  
+> FL-OF»  
 Me on  
 > > **[```VK.COM```](https://vk.com/id637642546)** <~> **[```DISCORD```](https://discord.gg/TuUGxzzKVU)**
 
-> Overdessss >  
+> Overdessss »  
 Me on  
 > > **[```VK.COM```](https://vk.com/id570628369)**
 
@@ -11,7 +11,7 @@ Me on
 > /clan help  
 > /c help
 
-### Config fle
+### Config file
 ```yaml
 key: ~
     
