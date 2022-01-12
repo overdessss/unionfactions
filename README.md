@@ -1,7 +1,7 @@
 # About
 > FL-OF
 > > **[Me on ```VK.COM```](https://vk.com/id637642546)**  
-> > **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**  
+> > **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**
 > Overdessss
 > > **[Me on ```VK.COM```](https://vk.com/id570628369)**
 
