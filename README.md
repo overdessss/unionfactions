@@ -1,8 +1,8 @@
 # About
-> FL-OF
+> FL-OF  Me on  
 > > **[```VK.COM```](https://vk.com/id637642546)** <~> **[```DISCORD```](https://discord.gg/TuUGxzzKVU)**
 
-> Overdessss
+> Overdessss  Me on  
 > > **[```VK.COM```](https://vk.com/id570628369)**
 
 ## Usage
