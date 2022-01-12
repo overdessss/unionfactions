@@ -1,13 +1,12 @@
 # About
 > FL-OF
-> > **[Me on ```VK.COM```](https://vk.com/hentai_dev)**  
-> > **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**
-
-## Installation
-> git clone https://github.com/FL-OF/vk-minecraft-rconbot
+> > **[Me on ```VK.COM```](https://vk.com/id637642546)**  
+> > **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**  
+> Overdessss
+> > **[Me on ```VK.COM```](https://vk.com/id570628369)**
 
 ## Usage
-> /clan help
+> /clan help  
 > /c help
 
 ### Config
