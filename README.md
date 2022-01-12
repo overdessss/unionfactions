@@ -1,17 +1,15 @@
-#Overdessss
-> no
-#FL_OF
-**[ ```VK.COM```](https://vk.com/dev_of)** ¦ **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**
-#UnionDev
+# About
+> FL-OF
+> > <img**[ ```VK.COM```](https://vk.com/hentai_dev)** ¦ **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**
 
-# Installation
+## Installation
 > git clone https://github.com/FL-OF/vk-minecraft-rconbot
 
-# Usage
+## Usage
 > /clan help
 > /c help
 
-# Config
+### Config
 ```yaml
 key: ~
     
