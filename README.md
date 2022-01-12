@@ -1,6 +1,6 @@
 # About
 > FL-OF
-> > **[Me on ```VK.COM```](https://vk.com/hentai_dev)**
+> > **[Me on ```VK.COM```](https://vk.com/hentai_dev)**  
 > > **[Me on ```DISCORD```](https://discord.gg/TuUGxzzKVU)**
 
 ## Installation
