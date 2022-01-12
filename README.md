@@ -1,4 +1,4 @@
-# About
+# Contacts
 > FL-OF >  
 Me on  
 > > **[```VK.COM```](https://vk.com/id637642546)** <~> **[```DISCORD```](https://discord.gg/TuUGxzzKVU)**
@@ -7,11 +7,11 @@ Me on
 Me on  
 > > **[```VK.COM```](https://vk.com/id570628369)**
 
-## Usage
+## Commands usage
 > /clan help  
 > /c help
 
-### Config
+### Config fle
 ```yaml
 key: ~
     
